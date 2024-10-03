@@ -2,7 +2,6 @@ package menu;
 
 import java.util.Scanner;
 
-import static menu.ConsoleColors.*;
 public class MenuDeJogos {
     public static void main(String[] args) {
         int opcao;
